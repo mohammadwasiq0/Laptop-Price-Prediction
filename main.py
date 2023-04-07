@@ -2,6 +2,11 @@ import streamlit as st
 import prediction
 import time
 if __name__ == '__main__':
+    
+    st.markdown("## Name : Mohammad Wasiq")
+    st.markdown("## Innomatics Research Labs Feb-2023 Internship")
+    st.write("## Connect me on Linkedin [link](https://www.linkedin.com/in/mohammadwasiq0/)")
+    st.write("## Follow me on Github [link](https://github.com/mohammadwasiq0)")
 
     # st.set_page_config(layout='wide')
     st.title("Laptop Price Prediction by Mohammad Wasiq")
