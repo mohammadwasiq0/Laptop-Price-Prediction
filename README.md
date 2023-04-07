@@ -3,8 +3,7 @@
 <video src="https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-<video src="(https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4]" width="320" height="240" controls>
+<video src="[https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4]" width="320" height="240" controls>
   Your browser does not support the video tag.
 </video>
 
-<iframe width="560" height="315" src="(https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4" frameborder="0" allowfullscreen></iframe>
