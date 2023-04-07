@@ -3,3 +3,6 @@
 <video src="https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+<video src="[https://example.com/video.mp4](https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4)" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
