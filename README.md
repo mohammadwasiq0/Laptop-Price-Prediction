@@ -3,4 +3,3 @@
 <video src="https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-![mp4](https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4)
