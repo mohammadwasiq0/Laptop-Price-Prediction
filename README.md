@@ -10,3 +10,7 @@
 https://user-images.githubusercontent.com/20944950/212302482-62189718-76d9-490b-b6a2-3015d20fde43.mp4
 
 https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop%20Price%20Prediction.mp4
+
+![Alt Text](https://github.com/mohammadwasiq0/Laptop-Price-Prediction/blob/main/Laptop-Price-Prediction.mp4)
+
+
