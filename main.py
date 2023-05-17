@@ -5,8 +5,8 @@ if __name__ == '__main__':
     
     st.markdown("## Name : Mohammad Wasiq")
     st.markdown("## Innomatics Research Labs Feb-2023 Internship")
-    st.write("## Connect me on Linkedin [link](https://www.linkedin.com/in/mohammadwasiq0/)")
-    st.write("## Follow me on Github [link](https://github.com/mohammadwasiq0)")
+    st.write("## Connect me on Linkedin [Link](https://www.linkedin.com/in/mohammadwasiq0/)")
+    st.write("## Follow me on Github [Link](https://github.com/mohammadwasiq0)")
 
     # st.set_page_config(layout='wide')
     st.title("Laptop Price Prediction by Mohammad Wasiq")
@@ -40,7 +40,7 @@ if __name__ == '__main__':
     ram_type = st.selectbox('Select RAM type (in GB):',
                             ram_options)
     hd_size = st.selectbox('Choose HD size (in GB):',
-                           (32, 64, 128, 256, 512, 1000, 1128, 1256, 1512, 2000))
+                           (32, 64, 128, 256, 512, 1024, 1128, 1256, 1512, 2048))
     hd_type = st.selectbox('Select any HD type',
                            ('HDD', 'EMMC', 'SSD', 'Hybrid'))
 
